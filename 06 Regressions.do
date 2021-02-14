@@ -1,8 +1,8 @@
 ********************************************************************
 * Replication materials for Preserving History or Property Values: *
 * Historic Preservation and Housing Prices in Washington, DC 	   *
-* Author: Lev Klarnet 											   *
-* Date: May 8, 2019									               *
+* Author: Lev Klarnet 						   *
+* Date: May 8, 2019						   *
 ********************************************************************
 
 * In this script, I run the series of regressions on the full data, the residential only data, and the repeat sales
