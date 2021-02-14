@@ -1,10 +1,10 @@
 * Replication materials for Preserving History or Property Values: *
 * Historic Preservation and Housing Prices in Washington, DC 	   *
-* Author: Lev Klarnet 											   *
-* Date: May 8, 2019									               *
+* Author: Lev Klarnet 						   *
+* Date: May 8, 2019				                   *
 ********************************************************************
 
-* In this script, I create the datasets limited to activist nominated historic districts. Models the rely on thes data
+* In this script, I create the datasets limited to activist nominated historic districts. Models that rely on these data
 * omit endogeniety that arises if neighborhood or government groups nominate historic districts in response to rising
 * housing prices.
 
