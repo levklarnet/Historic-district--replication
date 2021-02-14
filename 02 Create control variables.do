@@ -1,8 +1,8 @@
 ********************************************************************
 * Replication materials for Preserving History or Property Values: *
 * Historic Preservation and Housing Prices in Washington, DC 	   *
-* Author: Lev Klarnet 											   *
-* Date: May 8, 2019									               *
+* Author: Lev Klarnet 						   *
+* Date: May 8, 2019						   *
 ********************************************************************
 
 * In this script, I remove outliers and create the control variables for my regressions.
